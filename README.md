@@ -61,7 +61,7 @@ The script maps specific property keys on the website to predefined column names
 2. Ensure all prerequisites are set up.
 3. Run the script:
    ```bash
-   python your_script_name.py
+   python main_2.py
    ```
 
 ---

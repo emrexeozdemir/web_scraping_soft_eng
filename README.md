@@ -61,7 +61,7 @@ The script maps specific property keys on the website to predefined column names
 2. Ensure all prerequisites are set up.
 3. Run the script:
    ```bash
-   python main_2.py
+   python arabamcom_web_scraper.py
    ```
 
 ---
